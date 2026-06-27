@@ -61,13 +61,6 @@ An AI-powered financial news analysis platform that uses AI Agents and LLMs to a
 
 A multi-agent architecture for news filtering, analysis, execution planning, and automated workflows using modern AI technologies.
 
-### 📋 ATS (Applicant Tracking System)
-
-A scalable recruitment platform with FastAPI backend, secure authentication, and modern React frontend.
-
-### 📊 Algorithmic Trading System
-
-Designed and optimized trading strategies with backtesting, technical analysis, and real-time market data processing.
 
 ---
 
